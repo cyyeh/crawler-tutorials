@@ -2,7 +2,7 @@
 
 ## 爬蟲基礎知識
 
-- 資料來源與檔案存取
+- [資料來源與檔案存取](ch1/day01)
 - 實作：Python下載CSV檔案與解析
 - 實作：Python下載XML檔案與解析
 - HTTP Server-Client架構說明與利用Python存取API
